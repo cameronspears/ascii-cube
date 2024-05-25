@@ -2,7 +2,10 @@
 
 ascii-cube is a React application that displays an ASCII art cube which can be rotated in various orientations by dragging with the mouse.
 
-https://github.com/cameronspears/ascii-cube/assets/25994477/3059c52a-4ddc-4fbb-9e93-ab20dd046250
+
+
+https://github.com/cameronspears/ascii-cube/assets/25994477/f0da29cc-39f5-49c5-bb38-6407eaec2156
+
 
 ## Features
 
